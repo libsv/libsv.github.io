@@ -1,1 +1,14 @@
-site_name: My Docs
+site_name: LibSV Docs
+theme:
+  name: material
+  features:
+    - navigation.tracking
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tabs
+    - search.suggest
+    - search.highlight
+plugins:
+  - search
